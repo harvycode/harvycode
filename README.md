@@ -1,4 +1,4 @@
-<h1>Hello, I'm Harvy, an <a href="https://www.linkedin.com/in/harvy-babalcon/">IT Professional</a>☺</h1>
+<h1>Hello, I'm Harvy, an <a href="https://www.linkedin.com/in/harvy-babalcon/">aspiring IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
