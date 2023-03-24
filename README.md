@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Active Directory</b>
+  - [Reset Passwords in Active Directory](https://github.com/harvycode/reset-pw-ad)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/harvycode/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/harvycode/post-install-config)
